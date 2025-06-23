@@ -202,3 +202,5 @@ Host gitlab.com
     
 
 git push origin main后，看看下次git push会提交到哪里？
+
+通过git push -u origin main推送后，再试试git push会提交到github吗
